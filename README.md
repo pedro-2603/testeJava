@@ -1,7 +1,8 @@
 # testeJava
 # NewLabTech
 
-![Logo da NewLabTech](https://via.placeholder.com/150)  
+![![2](https://github.com/user-attachments/assets/fc9bca74-a9c2-4b96-b798-318773afba00)
+](https://via.placeholder.com/150)  
 *Inovando o futuro com tecnologia de ponta.*
 
 ## 🚀 Sobre nós
