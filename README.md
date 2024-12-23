@@ -1,7 +1,7 @@
 # testeJava
 # NewLabTech
 
-![Newlabtech](blob:chrome-untrusted://media-app/3d46ceba-b00b-4f00-b1fc-d50d7e81f05a) 
+![Newlabtech](https://web.whatsapp.com/bbcc27d4-d826-4484-af78-5f939945d30d) 
 *Inovando o futuro com tecnologia de ponta.*
 
 ## 🚀 Sobre nós
