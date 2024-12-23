@@ -1,8 +1,7 @@
 # testeJava
 # NewLabTech
 
-![![2](https://github.com/user-attachments/assets/fc9bca74-a9c2-4b96-b798-318773afba00)
-](https://via.placeholder.com/150)  
+![Newlabtech](blob:chrome-untrusted://media-app/3d46ceba-b00b-4f00-b1fc-d50d7e81f05a) 
 *Inovando o futuro com tecnologia de ponta.*
 
 ## 🚀 Sobre nós
